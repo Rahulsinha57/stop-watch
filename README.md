@@ -1,6 +1,6 @@
 # 🕒 Simple Stopwatch – JavaScript Project
 
-This is a basic stopwatch application built using **HTML**, **CSS**, and **JavaScript**. It's a great beginner project to understand DOM manipulation and event handling in JavaScript.
+This is a basic stopwatch application built using **HTML**, **CSS**, and **JavaScript**. 
 
 ## 🚀 Features
 
